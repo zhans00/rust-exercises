@@ -1,1 +1,2 @@
-# rust-exercises
+# piscine-rust
+
